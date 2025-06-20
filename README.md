@@ -8,10 +8,12 @@ Este é um projeto simples de **cadastro predial** desenvolvido em **Java**, com
 - Cadastro opcional de veículo (marca, modelo, placa)
 - Armazenamento dos dados em banco de dados NoSQL (MongoDB)
 - Operações básicas de CRUD (Create, Read, Update, Delete)
+- Interface
 
 ## 🧰 Tecnologias Utilizadas
 
 - **Java**
+- **Java Swing**
 - **MongoDB**
 - **MongoDB Java Driver**
 - **MongoDB Compass**
